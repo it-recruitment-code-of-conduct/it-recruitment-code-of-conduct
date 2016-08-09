@@ -17,3 +17,17 @@ eyes.
 # Guide points
 
 * ...pull requests here pls
+
+# Contributing
+
+1. fork this project
+2. clone your fork
+3. create a feature branch
+4. do your changes of the README.md & commit
+5. push to your fork
+6. create pull request of your feature branch on `it-recruitment-code-of-conduct/it-recruitment-code-of-conduct`
+
+* https://help.github.com/articles/fork-a-repo/
+* https://www.atlassian.com/git/tutorials/comparing-workflows/
+
+Thank you !!
