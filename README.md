@@ -17,6 +17,11 @@ eyes.
 ## Guide points
 
 * ...pull requests here please
+* It's considered inappropriate to advertise or contact developers by
+  commenting on their OpenSource projects or posting any irrelevant
+  content that aims to spread recruiting activities on
+  developers/programmers public repositories(like Github, Bitbucket),
+  blogs and portfolios.
 
 ## Contributing
 
