@@ -3,7 +3,7 @@
 Community driven guidelines for IT, Developer and Programming recruiters
 to follow in order to be considered Professional and Decent Recruiter.
 
-# About
+## About
 
 This project is attempt to provide guidelines for IT recruiters
 from IT personal in order to draw the line what is considered
@@ -14,11 +14,20 @@ this is a behavior that IT, Developer and Programming community desires from you
 in order to be considered trustworthy and professional in their our
 eyes.
 
-# Guide points
+## Guide points
 
-* ...pull requests here pls
+* ...pull requests here please
 
-# Contributing
+## Contributing
+
+We hope all Software Developers, Programmers and IT personal would help
+us to contribute to this Guide so we create generic manifesto for the
+Recruiters to fallow and resource to point unprofessional Recruiters.
+
+Recruiters may not be the most respectable people to deal with for us.
+Some time it's because of their personality,
+sometimes is because they don't understand what we are expecting from
+them.  Maybe this will help a bit.
 
 1. fork this project
 2. clone your fork
